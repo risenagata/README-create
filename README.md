@@ -23,5 +23,13 @@ Javascript
 
 ## リンクと画像挿入  
 [Github公式サイト](http://github.com)  
-<img width="2560" height="1600" alt="スクリーンショット (88)" src="https://github.com/user-attachments/assets/5cc21498-2595-4916-bad3-17751aaa7f11" />
+<img width="2560" height="1600" alt="スクリーンショット (88)" src="https://github.com/user-attachments/assets/5cc21498-2595-4916-bad3-17751aaa7f11" />  
+
+---  
+
+```const message = "Hello World";
+console.log(message)```
+
+
+---
 
