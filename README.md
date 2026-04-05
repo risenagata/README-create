@@ -31,7 +31,31 @@ Javascript
 const message = "Hello World";
 console.log(message);
 ```
-
-
 ---
+
+```diff
+const port = 3000;
+const port = process.env.PORT || 3000;
+```
+```bash
+# リポジトリをクローン
+git clone https://github.com/user/repo.git
+# ディレクトリに移動
+cd repo
+# 依存パッケージをインストール
+npm install
+# 開発サーバーを起動
+npm run dev
+```
+```json
+{
+	"name": "my-app",
+	"version": "1.0.0",
+	"scripts": {
+		"dev": "next dev",
+		"build": "next build",
+		"start": "next start"
+	}
+}
+```
 
