@@ -32,10 +32,10 @@ const message = "Hello World";
 console.log(message);
 ```
 ---
-
+## 変更内容
 ```diff
-const port = 3000;
-const port = process.env.PORT || 3000;
+-const port = 3000;
++const port = process.env.PORT || 3000;
 ```
 ```bash
 # リポジトリをクローン
@@ -58,4 +58,7 @@ npm run dev
 	}
 }
 ```
+
+
+---
 
