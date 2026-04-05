@@ -27,7 +27,7 @@ Javascript
 
 ---  
 
-```
+```jacascript
 const message = "Hello World";
 console.log(message);
 ```
